@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @emicodes44
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me eoche912@gmail.com...
+# 👋 Hi, I'm Emi Codes
 
-<!---
-emicodes44/emicodes44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Passionate Web Developer | Frontend & Backend  
+💻 Tech Stack: React • Node.js • MongoDB • Git • Tailwind  
+🌍 I build responsive websites, apps.  
+📫 Reach me:Email: [eoche912@gmail.com] 
+
+### 🔧 Tools & Tech
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+...
